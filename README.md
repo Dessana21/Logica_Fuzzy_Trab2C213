@@ -1,4 +1,4 @@
-Projeto da disciplina de C213
+Projeto da disciplina de Trabalho de Sistemas Embarcados C213
 
 Objetivo:
 Simular o sistema fuzzy no controle de velocidade do carro.
