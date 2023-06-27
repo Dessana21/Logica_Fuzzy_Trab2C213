@@ -1,9 +1,9 @@
-Projeto da disciplina de Trabalho de Sistemas Embarcados C213
+💻 Projeto da disciplina de Sistemas Embarcados - C213
 
-Objetivo:
+📌 Objetivo
 Simular o sistema fuzzy no controle de velocidade do carro.
 
-equipe:
+🎓 Equipe
 Dessana Siqueira Alves - 1544
 Lucas Henrique Vilasboas Graciano - 1545
 Gabriel Silva Zordan - 1488
